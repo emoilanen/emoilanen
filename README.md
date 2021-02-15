@@ -34,7 +34,7 @@ Minulle erityisen tärkeä aihealue sovellusten kehittämisessä on tietoturva, 
 
 ### Etsitkö kehitystiimiisi uutta jäsentä?
 
-Olen kiinnostunut etätyöharjoittelusta / etätyöstä ohjelmistoalalla, esim. Node/React-sovellusten kehittäjänä (myös React Native-mobiilisovellukset). Myös eettisen hakkeroinnin opetteleminen kiinnostaa. Joustavat työajat myös iso plussa. Minusta saatte tiimiinne tekijän, joka on erittäin luotettava, motivoitunut ja huumorintajuinen, sekä haluaa oppia uutta asenteella "Yes, I can do it".
+Olen kiinnostunut etätyöharjoittelusta / etätyöstä ohjelmistoalalla, esim. Node/React-sovellusten kehittäjänä (myös React Native-mobiilisovellukset). Myös eettisen hakkeroinnin opetteleminen kiinnostaa. Joustavat työajat erittäin iso plussa. Minusta saatte tiimiinne tekijän, joka on erittäin luotettava, motivoitunut ja huumorintajuinen, sekä haluaa oppia uutta asenteella "Yes, I can do it".
 Jos sinulla olisi tarjota harjoittelupaikkaa / juniori-tasoisia töitä, ota yhteyttä elikatamo@gmail.com
 
 I speak English also
