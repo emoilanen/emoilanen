@@ -16,3 +16,8 @@ Ja mm. näitä ohjelmia ja työkaluja osaan käyttää ainakin jollakin tasolla
 Lisäksi ymmärrystä seuraavista asioista
 
 ![](https://img.shields.io/static/v1?label=&message=WordPress&color=blue) ![](https://img.shields.io/static/v1?label=&message=Woocommerce&color=blue) ![](https://img.shields.io/static/v1?label=&message=SEO&color=blue) ![](https://img.shields.io/static/v1?label=&message=Digimarkkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=FB-markkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=Bloggaus&color=blue) ![](https://img.shields.io/static/v1?label=&message=Liiketalous&color=blue)
+
+Olen kiinnostunut etätyöharjoittelusta / etätyöstä ohjelmistoalalla, esim. Node/React-sovellusten kehittäjänä (myös React Native-mobiilisovellukset). Joustavat työajat myös iso plussa. 
+Jos sinulla olisi tarjota harjoittelupaikkaa / juniori-tasoisia töitä, ota yhteyttä elikatamo@gmail.com
+
+I speak English also
