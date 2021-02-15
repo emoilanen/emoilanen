@@ -30,7 +30,7 @@ Lisäksi minulla on tietoa ja ymmärrystä seuraavista asioista (voi olla hyöty
 
 ![](https://img.shields.io/static/v1?label=&message=WordPress&color=blue) ![](https://img.shields.io/static/v1?label=&message=Woocommerce&color=blue) ![](https://img.shields.io/static/v1?label=&message=SEO&color=blue) ![](https://img.shields.io/static/v1?label=&message=Digimarkkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=FB-markkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=Bloggaus&color=blue) ![](https://img.shields.io/static/v1?label=&message=Liiketalous&color=blue) ![](https://img.shields.io/static/v1?label=&message=Sote-ala&color=blue)
 
-Minulle erityisen tärkeä aihealue sovellusten kehittämisessä on tietoturvallisuus, josta haluan oppia koko ajan lisää. Tietenkään ei saa myöskään unohtaa sovellusten käytettävyyttä, eikä selkeää koodia, jota muutkin pystyvät lukemaan. Pyrin kirjoittamaan koodia, joka ns. "dokumentoi itse itsensä". Käytän kommentteja tarvittaessa.
+Minulle erityisen tärkeä aihealue sovellusten kehittämisessä on tietoturva, josta haluan oppia koko ajan lisää. Tietenkään ei saa myöskään unohtaa sovellusten käytettävyyttä, eikä selkeää koodia, jota muutkin pystyvät lukemaan. Pyrin kirjoittamaan koodia, joka ns. "dokumentoi itse itsensä". Käytän kommentteja tarvittaessa.
 
 ### Etsitkö kehitystiimiisi uutta jäsentä?
 
