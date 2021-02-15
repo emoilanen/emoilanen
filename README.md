@@ -1,6 +1,6 @@
 # Heips! 👋
 
-Opiskelen Kaakkois-Suomen ammattikorkeakoulussa tietojenkäsittelyä, opinnot aloitin 2019. Minulla on myös avoimessa ylipistossa käytyjä tietojenkäsittelyn opintoja noin 50op kasassa. Olen ensisijaisesti kiinnostunut web- ja mobiilisovellusten kehittämisestä. Wordpressin käyttämisestä minulla on useamman vuoden kokemus, mutta teemoja tai lisäosia en ole itse koodaillut. 
+Opiskelen Kaakkois-Suomen ammattikorkeakoulussa tietojenkäsittelyä, opinnot aloitin 2019. Minulla on myös avoimessa ylipistossa käytyjä tietojenkäsittelytieteiden opintoja noin 50 op kasassa. Olen ensisijaisesti kiinnostunut web- ja mobiilisovellusten kehittämisestä. Wordpressin käyttämisestä minulla on useamman vuoden kokemus, mutta teemoja tai lisäosia en ole itse koodaillut. Olen rakentanut WP-sivuja ja ylläpidän muutamaa kotisivua / verkkokauppaa. 
 
 Näitä kieliä tai teknologioita olen mm. opiskellut
 
@@ -17,7 +17,9 @@ Lisäksi ymmärrystä seuraavista asioista
 
 ![](https://img.shields.io/static/v1?label=&message=WordPress&color=blue) ![](https://img.shields.io/static/v1?label=&message=Woocommerce&color=blue) ![](https://img.shields.io/static/v1?label=&message=SEO&color=blue) ![](https://img.shields.io/static/v1?label=&message=Digimarkkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=FB-markkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=Bloggaus&color=blue) ![](https://img.shields.io/static/v1?label=&message=Liiketalous&color=blue)
 
-Olen kiinnostunut etätyöharjoittelusta / etätyöstä ohjelmistoalalla, esim. Node/React-sovellusten kehittäjänä (myös React Native-mobiilisovellukset). Joustavat työajat myös iso plussa. 
+Minulle erityisen tärkeä aihealue sovellusten kehittämisessä on tietoturvallisuus, josta haluan oppia koko ajan lisää. Tietenkään ei saa myöskään unohtaa sovellusten käytettävyyttä, eikä selkeää koodia, jota muutkin pystyvät lukemaan. Pyrin kirjoittamaan koodia, joka ns. "dokumentoi itse itsensä". Käytän kommentteja tarvittaessa.
+
+Olen kiinnostunut etätyöharjoittelusta / etätyöstä ohjelmistoalalla, esim. Node/React-sovellusten kehittäjänä (myös React Native-mobiilisovellukset). Joustavat työajat myös iso plussa. Minusta saatte tiimiinne tekijän, joka on erittäin luotettava ja haluaa oppia uutta, asenteella "jos en osaa jotain, opettelen".
 Jos sinulla olisi tarjota harjoittelupaikkaa / juniori-tasoisia töitä, ota yhteyttä elikatamo@gmail.com
 
 I speak English also
