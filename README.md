@@ -28,13 +28,7 @@ Paljon on tullut vuosien varrella käytettyä eri ohjelmia ja työkaluja, mutta 
 
 Lisäksi minulla on tietoa ja ymmärrystä seuraavista asioista (voi olla hyötyä myös sovelluskehityksen näkökulmasta)
 
-![](https://img.shields.io/static/v1?label=&message=WordPress&color=blue) ![](https://img.shields.io/static/v1?label=&message=Woocommerce&color=blue) ![](https://img.shields.io/static/v1?label=&message=SEO&color=blue) ![](https://img.shields.io/static/v1?label=&message=Digimarkkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=FB-markkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=Bloggaus&color=blue) ![](https://img.shields.io/static/v1?label=&message=Liiketalous&color=blue) ![](https://img.shields.io/static/v1?label=&message=Sote-ala&color=blue)
+![](https://img.shields.io/static/v1?label=&message=WordPress&color=blue) ![](https://img.shields.io/static/v1?label=&message=Woocommerce&color=blue) ![](https://img.shields.io/static/v1?label=&message=SEO&color=blue) ![](https://img.shields.io/static/v1?label=&message=Verkkokauppa&color=blue)
+![](https://img.shields.io/static/v1?label=&message=Digimarkkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=FB-markkinointi&color=blue) ![](https://img.shields.io/static/v1?label=&message=Bloggaus&color=blue) ![](https://img.shields.io/static/v1?label=&message=Liiketalous&color=blue) ![](https://img.shields.io/static/v1?label=&message=Sote-ala&color=blue)
 
-Minulle erityisen tärkeä aihealue sovellusten kehittämisessä on tietoturva, josta haluan oppia koko ajan lisää. Tietenkään ei saa myöskään unohtaa sovellusten käytettävyyttä, eikä selkeää koodia, jota muutkin pystyvät lukemaan. Pyrin kirjoittamaan koodia, joka ns. "dokumentoi itse itsensä". Käytän kommentteja tarvittaessa.
-
-### Etsitkö kehitystiimiisi uutta jäsentä?
-
-Olen kiinnostunut etätyöharjoittelusta / etätyöstä ohjelmistoalalla, esim. Node/React-sovellusten kehittäjänä (myös React Native-mobiilisovellukset). Myös eettisen hakkeroinnin opetteleminen kiinnostaa. Joustavat työajat todella iso plussa. Minusta saatte tiimiinne tekijän, joka on erittäin luotettava, motivoitunut ja huumorintajuinen, sekä haluaa oppia uutta asenteella "Yes, I can do it".
-Jos sinulla olisi tarjota harjoittelupaikkaa / juniori-tasoisia töitä, ota yhteyttä elikatamo@gmail.com
-
-I speak English also
+Minulle erityisen tärkeä aihealue sovellusten kehittämisessä on tietoturva, josta haluan oppia koko ajan lisää. Olen kiinnostunut myös eettisestä hakkeroinnista. Tietenkään ei saa myöskään unohtaa sovellusten käytettävyyttä, eikä selkeää koodia, jota muutkin pystyvät lukemaan. Pyrin kirjoittamaan koodia, joka ns. "dokumentoi itse itsensä". Käytän kommentteja tarvittaessa. I speak English also. Minuun saa yhteyttä laittamalla sähköpostia: elikatamo@gmail.com
